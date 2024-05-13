@@ -2,16 +2,20 @@
 <a href="https://www.youtube.com/channel/UChrS9punYNut6EH01x4CvmA"> 
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> 
 </a> 
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> 
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> 
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> 
+<a href="isogandtat@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> 
+</a>
 <a href="https://www.youtube.com/channel/UChrS9punYNut6EH01x4CvmA"> 
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
 </a> 
 </div>
 
-</div> <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Sogand and I'm a Developer </h1> <h4 > I am a passionate React Native developer with 3 years of experience in building high-performance, cross-platform mobile applications. Proficient in React Native, JavaScript, and related technologies, I have successfully delivered numerous projects for diverse clients. My expertise lies in creating intuitive user interfaces, integrating with third-party APIs, and optimizing app performance for seamless user experiences. </h4> 
+</div> <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Sogand and I'm a Developer </h1>
+<h4>
+  I am a passionate React Native developer with 3 years of experience in building high-performance, cross-platform mobile applications. Proficient in React Native, JavaScript, and 
+  related technologies, I have successfully delivered numerous projects for diverse clients. My expertise lies in creating intuitive user interfaces, integrating with third-party APIs, 
+  and optimizing app performance for seamless user experiences. 
+</h4> 
 
 <br clear="both"> 
 Here are some ideas to get you started:
