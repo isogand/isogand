@@ -33,7 +33,7 @@
       <li>👨‍💻 All of my public projects are available on <a href='https://github.com/isogand?tab=repositories'>this page</a>.</li>
       <li>💬 Ask me about <strong>LLM evaluation, optimizer design, statistical methodology, or React Native</strong>.</li>
       <li>📫 The fastest way to contact me is via <a href="mailto:sogandtatlari1999@gmail.com">my email</a>.</li>
-      <li>📄 See my full background in <a href='[YOUR_RESUME_LINK]'>my CV</a>.</li>
+      <li>📄 See my full background in <a href='https://github.com/isogand/isogand/blob/main/Tatlari_CV.docx'>my CV</a>.</li>
     </ul>
   </details>
 
