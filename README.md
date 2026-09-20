@@ -8,51 +8,57 @@
     <a href="mailto:sogandtatlari1999@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
     </a>
+    <a href="https://www.linkedin.com/in/sogandtatlari/">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
+    </a>
   </p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Sogand!+;I+love+AI+%E2%9D%A4%EF%B8%8F;Senior+Developer.;Always+learning+%F0%9F%A4%96)](https://enansari.github.io/)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=34F500&vCenter=true&width=550&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Sogand!;AI+Researcher+%7C+LLM+Reliability+%26+Optimization;Software+Engineer+%E2%86%92+AI+Research)](https://github.com/isogand)
 
   <h2>About Me</h2>
   <p>
-    I am a passionate React Native developer with 4 years of experience creating high-quality mobile apps.  
-    Besides development, I have a strong interest in Artificial Intelligence and Data Science.  
-    I’m currently learning machine learning, data analysis, and Python to build smarter, data-driven solutions.  
-    Combining AI with mobile apps excites me as it opens new possibilities for innovation and impact.
+    I'm a software engineer transitioning into independent AI research, focused on
+    LLM reliability and neural network optimization. After several years building
+    production mobile apps and deploying ML systems (computer vision, NLP), I shifted
+    toward formal research — co-authoring two preprints on principled optimizer design
+    and systematic characterization of LLM failure patterns. I'm currently applying
+    for thesis-based MSc programs in Canada to continue this work.
   </p>
 
   <details open style="text-align:left; max-width: 600px; margin: 20px auto;">
     <summary>👀 More Details</summary>
     <ul>
-      <li>🔭 I’m currently working as a <strong>React Native Developer</strong>.</li>
-      <li>🌱 I’m currently learning <strong>Data Science (Python, Scikit-learn, Pandas)</strong> and <strong>Machine Learning</strong>.</li>
+      <li>🔬 I'm currently doing independent AI research on <strong>LLM reliability</strong> and <strong>optimizer design</strong> — see my publications below.</li>
+      <li>💼 My professional background is in <strong>software engineering</strong> (React Native, production ML deployment).</li>
       <li>👨‍💻 All of my public projects are available on <a href='https://github.com/isogand?tab=repositories'>this page</a>.</li>
-      <li>💬 Ask me about <strong>React Native, JavaScript, and Mobile Development</strong>.</li>
+      <li>💬 Ask me about <strong>LLM evaluation, optimizer design, statistical methodology, or React Native</strong>.</li>
       <li>📫 The fastest way to contact me is via <a href="mailto:sogandtatlari1999@gmail.com">my email</a>.</li>
-      <li>📄 Know about my experiences in <a href='[LINK_TO_YOUR_RESUME.PDF]'>my resume</a>.</li>
+      <li>📄 See my full background in <a href='[YOUR_RESUME_LINK]'>my CV</a>.</li>
     </ul>
+  </details>
+
+  <details open style="text-align:left; max-width: 600px; margin: 20px auto;">
+    <summary>📄 Publications</summary>
+    <br>
+    <ul>
+      <li>
+        <strong>Emergent Brittleness: A Case Study on Pathological Instruction-Following in LLM-Based Code Optimization</strong><br>
+        S. Tatlari*, S. Mobarhan*, H. R. Hamidi. Preprint, 2025.<br>
+        📄 <a href="https://doi.org/10.5281/zenodo.17116501">DOI</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/isogand/emergent-brittleness-llm-study">Code</a>
+      </li>
+      <br>
+      <li>
+        <strong>Unlocking Potential: A Case for Neural Network Perseverance on Critical Tabular Tasks Through Principled Optimizer Design</strong><br>
+        S. Mobarhan*, S. Tatlari*. Preprint, 2025.<br>
+        📄 <a href="https://doi.org/10.5281/zenodo.17116288">DOI</a>
+      </li>
+    </ul>
+    <p><em>*Denotes equal contribution.</em></p>
   </details>
 
   <details style="text-align:left; max-width: 600px; margin: 20px auto;">
     <summary>🤹‍♂️ Skills</summary>
     <br>
-    <h5>Mobile & Web Development</h5>
-    <p>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-    </p>
     <h5>Data Science & Machine Learning</h5>
     <p>
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -69,6 +75,18 @@
       </a>
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+      </a>
+    </p>
+    <h5>Mobile & Web Development</h5>
+    <p>
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react native" width="40" height="40"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
     </p>
     <h5>Other Tools</h5>
