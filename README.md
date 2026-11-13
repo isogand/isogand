@@ -4,16 +4,16 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJybGR4amZxcHV6d3o2MTJueHN0d2xheGJ1d3B3ZzkzOHI2bGU1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paoX8smVvbggCXLu80/giphy.gif" width="100" alt="Waving Hand" /> 
   </div>
 
-  <p>
+ <!--  <p>
     <a href="mailto:sogandtatlari1999@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
     </a>
     <a href="https://www.linkedin.com/in/sogandtatlari/">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
     </a>
-  </p>
+  </p> 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=34F500&vCenter=true&width=550&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Sogand!;AI+Researcher+%7C+LLM+Reliability+%26+Optimization;Software+Engineer+%E2%86%92+AI+Research)](https://github.com/isogand)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=34F500&vCenter=true&width=550&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Sogand!;AI+Researcher+%7C+LLM+Reliability+%26+Optimization;Software+Engineer+%E2%86%92+AI+Research)](https://github.com/isogand) -->
 
   <h2>About Me</h2>
   <p>
