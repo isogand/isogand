@@ -25,7 +25,7 @@
     for thesis-based MSc programs in Canada to continue this work.
   </p>
 
-  <details open style="text-align:left; max-width: 600px; margin: 20px auto;">
+ <!-- <details open style="text-align:left; max-width: 600px; margin: 20px auto;">
     <summary>👀 More Details</summary>
     <ul>
       <li>🔬 I'm currently doing independent AI research on <strong>LLM reliability</strong> and <strong>optimizer design</strong> — see my publications below.</li>
@@ -33,9 +33,9 @@
       <li>👨‍💻 All of my public projects are available on <a href='https://github.com/isogand?tab=repositories'>this page</a>.</li>
       <li>💬 Ask me about <strong>LLM evaluation, optimizer design, statistical methodology, or React Native</strong>.</li>
       <li>📫 The fastest way to contact me is via <a href="mailto:sogandtatlari1999@gmail.com">my email</a>.</li>
-      <!-- <li>📄 See my full background in <a href='https://github.com/isogand/isogand/blob/main/Tatlari_CV.pdf'>my CV</a>.</li> -->
+      <li>📄 See my full background in <a href='https://github.com/isogand/isogand/blob/main/Tatlari_CV.pdf'>my CV</a>.</li> 
     </ul>
-  </details>
+  </details> 
 
   <details open style="text-align:left; max-width: 600px; margin: 20px auto;">
     <summary>📄 Publications</summary>
@@ -108,6 +108,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=isogand&show_icons=true&theme=gotham" alt="Sogand's github stats" /><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isogand&theme=gotham&layout=compact" alt="Top Languages" />
     </div>
-  </details>
+  </details> -->
 
 </div>
